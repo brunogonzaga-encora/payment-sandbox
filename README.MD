@@ -1,4 +1,4 @@
-# Payment System - Transaction CRUD
+# Payment System - Interview Project
 
 This is a payment system developed with Node.js, TypeScript, and SQLite, following Clean Architecture principles.
 
