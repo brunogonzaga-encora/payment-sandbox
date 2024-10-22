@@ -1,0 +1,14 @@
+### Variables
+@baseUrl = http://localhost:3000
+
+
+### Create Transaction - Success Case
+POST {{baseUrl}}/transactions
+Content-Type: application/json
+
+{
+    "amount": 100.50,
+    "currency": "USD",
+    "payer_id": "user123",
+    "payee_id": "merchant456"
+}
