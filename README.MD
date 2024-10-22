@@ -44,12 +44,6 @@ cd payment-system
 npm install
 ```
 
-2. Set up the development environment:
-```bash
-# Initialize TypeScript
-npx tsc --init
-```
-
 ## Running the Project
 1. Start the server in development mode:
 ```bash
